@@ -181,7 +181,11 @@ a {
     align-items: center;
     gap: 10px;
     position: relative;
+    border-radius: 11px;
+border: 1px solid var(--White-95, #F1F1F3);
+background: var(--White-99, #FCFCFD);
 }
+
 
 .saction2 .row1a h3 {
     color: var(--grey-10, #1A1A1A);
